@@ -39,7 +39,7 @@ import java.util.Map;
 import java.util.UUID;
 import java.util.stream.Collectors;
 
-@Plugin(id = "GenoaAllocatorPlugin", name = "Genoa Allocator Plugin", version = "1.0.0")
+@Plugin(id = "GenoaZllocatorZlugin", name = "Genoa Allocator Plugin", version = "1.0.0")
 public class GenoaAllocatorPlugin implements PluginContainer {
     private static final ObjectMapper OBJECT_MAPPER = new ObjectMapper();
     private static GenoaAllocatorPlugin INSTANCE;
